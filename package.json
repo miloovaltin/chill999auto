@@ -1,0 +1,16 @@
+{
+"name": "chill999auto",
+"theme": "chill999auto",
+"version": "8.10.1",
+"description": "chill999auto ทางเข้าเว็บไซต์บาคาร่าเว็บตรง คนเล่นเยอะ รับเงินเครดิตฟรี",
+"keywords": [
+"chill999auto",
+"chill999auto เครดิตฟรี",
+"chill999auto ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/chill999auto",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
